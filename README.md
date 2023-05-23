@@ -1,5 +1,5 @@
 # House-Price-Prediction-System
-A Python Linear Regression based prediction model has been used. A website in HTML, CSS and JavaScript is used to allow the user to provide the input parameters based on which the model makes a prediction.
+A Python Linear Regression based prediction model has been used. A website in HTML, CSS and JavaScript hosted is used to allow the user to provide the input parameters based on which the model makes a prediction. A Flask server has been used to handle the HTTPS API requests made to the prediction model.
 
 The Bangalore house price dataset from Kaggle has been used to train the prediction model. Before model training, a number of steps were taken to clean up the data set and remove outliers.
 
