@@ -1,7 +1,11 @@
 # House-Price-Prediction-System
-A Python Linear Regression based prediction model has been used. A website in HTML, CSS and JavaScript hosted is used to allow the user to provide the input parameters based on which the model makes a prediction. A Flask server has been used to handle the HTTPS API requests made to the prediction model.
+A Python Linear Regression based prediction model has been used. A website in HTML, CSS and JavaScript hosted is used to allow the user to provide the input parameters based on which the model makes a prediction. A Flask server has been used to handle the HTTPS API requests made to the prediction model. <br>
+
+The input parameters from the user are no of bedrooms, bathrooms and square foot area desired. The output is the predicted price displayed in Indian Rupees. <br>
+
 
 The Bangalore house price dataset from Kaggle has been used to train the prediction model. Before model training, a number of steps were taken to clean up the data set and remove outliers.
+![f](https://github.com/salil-fernandes/House-Price-Prediction-System/assets/48954206/501d9af8-a778-4cb8-a220-fb4563f902d8)
 
 Data Cleaning Steps used : <br>
 a) Removing unimportant columns i.e 'area_type','society','balcony','availability'. <br>
