@@ -20,7 +20,7 @@ Outlier Detection and Removal :  <br>
 a) Remove rows where the sqft area per bhk is less than 300.  <br>
 b) Remove rows where price per sqft is either very high or very low.   <br>
 c) Remove cases where sqft area is same but if no of bedrooms is more the price is same as houses with less bedrooms. <br>
-e) Remove houses where no of bathrooms is > no of bedrooms + 2. <br>
+d) Remove houses where no of bathrooms is > no of bedrooms + 2. <br>
  <br>
 Matplotlib has been used for data visualisation at each stage. <br>
 
